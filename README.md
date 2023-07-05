@@ -1,2 +1,4 @@
 # Breast_Cancer_Prediction
 Machine Learning classification model to predict type of breast cancer i.e BENIGN OR MALIGNANT.
+
+Breast cancer remains one of the top diseases that lead to thousands of death in women every year where the majority of cases are diagnosed in late stages. In this project, it is shown a comparison of machine learning algorithms with the help of different techniques like ensemble methods, data mining algorithms or using blood analysis, etc. Here, machine learning (ML) algorithms like Naive Bayes (NB), Random Forest (RT), Artificial Neural Networks (ANN), K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Decision Tree (DT), etc are compared on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. For the implementation of the ML algorithms, the dataset will be partitioned into the training phase and the testing phase. The algorithm with the best results will be used as and the model will then classify cancer as benign or malignant.
