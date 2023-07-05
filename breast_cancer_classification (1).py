@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 
-#Mounting Gdrive
+#Mounting Google drive
 from google.colab import drive
 drive.mount('/content/drive')
 
